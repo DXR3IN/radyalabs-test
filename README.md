@@ -32,4 +32,12 @@ Pada image Url terdapat error 404, yang dimana error tersebut tidak berada pada 
 </p>
 
 
+## Library
+
+dio: ^5.1.1
+flutter_staggered_grid_view: ^0.4.0
+url_launcher: ^6.1.11
+fluttericon: ^2.0.0
+
+
 
