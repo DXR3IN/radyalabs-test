@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// berfungsi untuk menghiraukan keamanan SSL pada image Url
 class MyHttpOverrides extends HttpOverrides {
   @override
   HttpClient createHttpClient(SecurityContext? context) {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart'; // Import this package
+import 'package:flutter/services.dart'; 
 import '../data/food.dart';
 
 class FoodDetailPage extends StatelessWidget {

@@ -152,7 +152,7 @@ class _FoodGridPageState extends State<FoodGridPage> {
                               "Makanan",
                               style: TextStyle(
                                   color: Colors
-                                      .white), // Added text color for better visibility
+                                      .white), 
                             ),
                           ],
                         ),
